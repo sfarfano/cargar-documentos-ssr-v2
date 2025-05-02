@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+Pillow
+google-auth
+google-api-python-client
+
